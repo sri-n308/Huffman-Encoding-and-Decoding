@@ -12,6 +12,7 @@ import java.util.Collections;
  * 
  * @author Ishaan Ivaturi
  * @author Prince Rawal
+ * All methods filled in by Sriteja Nara 
  */
 public class HuffmanCoding {
     private String fileName;
